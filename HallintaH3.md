@@ -13,7 +13,7 @@ Sitten voikin aloittaa tiedoston muokkaamisen kun ollaan saatu git toimimaan.
 ## B. Pull first. Tee useita muutoksia git-varastoosi. Tee muutama muutos, jossa yksi commit koskee useampaa tiedostoa. Anna hyvä kuvaukset (commit message), yksi englanninkielinen lause imperatiivissa (määräysmuodossa) "Add top level menu to Foobar synchronizer"
 
 Tehdään tähän kansioon uusi MarkDown tiedosto nimellä testi01 ja lisätään sinne testisisältöä. Myös toki muokataan tätä tiedostoa edellä kirjatulla materiaalilla.
-![image](<blockquote class="imgur-embed-pub" lang="en" data-id="a/sjFirwY" data-context="false" ><a href="//imgur.com/a/sjFirwY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![image](https://imgur.com/a/sjFirwY)
 
 ## C. Kaikki kirjataan. Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
